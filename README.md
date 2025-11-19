@@ -7,6 +7,7 @@
 <p align="center">
     <a href="https://github.com/PaoloMaldini"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=PaoloMaldini.PaoloMaldini" /></a>
     <a href="https://github.com/PaoloMaldini"><img alt="Followers" src="https://img.shields.io/github/followers/PaoloMaldini?label=Followers&style=social" /></a>
+    <a href="https://space.bilibili.com/436417254"><img src="https://img.shields.io/badge/Bilibili-PaoloMaldini-pink?logo=bilibili" alt="Bilibili" title="Bilibili" /></a>
 </p>
 
 ## 关于我
@@ -22,8 +23,6 @@
 
 - 语言：JavaScript, TypeScript, Python, Go, ...
 - 框架/工具：React, Node.js, Django, Docker, ...
-
-（建议后续将上面内容替换为漂亮的图标，例如使用 skill-icons）
 
 ## 📊 GitHub 统计
 
@@ -49,4 +48,5 @@
 ## 联系我
 
 - ✉️ Email: `gehanlin@whu.edu.cn`
+- 📺 Bilibili: [PaoloMaldini](https://space.bilibili.com/436417254)
 - 🌐 个人网站: `https://yourwebsite.com`

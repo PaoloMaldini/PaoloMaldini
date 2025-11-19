@@ -85,7 +85,7 @@
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DPaoloMaldini%26theme%3Dradical%26hide_border%3Dtrue" alt="streak" />
 </div>
 
-<!-- 📈 动态活动图 (代替原本裂开的图，这个更稳定) -->
+<!-- 📈 动态活动图 -->
 
 <h3 align="center">📈 贡献活动 / Activity Graph</h3>
 <div align="center">

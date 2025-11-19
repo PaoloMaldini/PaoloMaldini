@@ -1,52 +1,118 @@
-<h1 align="center">Hi there 👋, 我是 <strong>PaoloMaldini</strong></h1>
+<!-- Banner 标题 -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+PaoloMaldini!;Welcome+to+my+GitHub+Profile!;Keep+Coding,+Keep+Growing!&center=true&size=28">
+</h1>
 
 <p align="center">
-	<img src="https://github.com/PaoloMaldini.png" width="120" alt="avatar" />
+	<img src="https://github.com/PaoloMaldini.png" width="140" style="border-radius:50%" />
 </p>
 
 <p align="center">
-    <a href="https://github.com/PaoloMaldini"><img alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=PaoloMaldini.PaoloMaldini" /></a>
-    <a href="https://github.com/PaoloMaldini"><img alt="Followers" src="https://img.shields.io/github/followers/PaoloMaldini?label=Followers&style=social" /></a>
-    <a href="https://space.bilibili.com/436417254"><img src="https://img.shields.io/badge/Bilibili-PaoloMaldini-pink?logo=bilibili" alt="Bilibili" title="Bilibili" /></a>
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=PaoloMaldini.PaoloMaldini"><img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloMaldini.PaoloMaldini" /></a>
+  <a href="https://github.com/PaoloMaldini"><img src="https://img.shields.io/github/followers/PaoloMaldini?label=Followers&style=social"></a>
+  <a href="https://space.bilibili.com/436417254"><img src="https://img.shields.io/badge/Bilibili-@PaoloMaldini-ff69b4?logo=bilibili&logoColor=white"></a>
+  <a href="mailto:gehanlin@whu.edu.cn"><img src="https://img.shields.io/badge/Email-gehanlin@whu.edu.cn-blue?logo=gmail"></a>
 </p>
 
-## 关于我
+---
 
-简短介绍：我是一个热爱编程与开源的工程师 / 学生 / 爱好者。
+## 👨‍💻 About Me / 关于我
 
-- 🔭 目前在做：
-- 🌱 正在学习：
-- 👯 希望合作：
-- 📫 联系方式：gehanlin@whu.edu.cn
+- 💼 一名热爱全栈开发 / AI / 开源项目的工程师 & 学生  
+- 🔭 目前正在研究：**AI智能体 / 计算机视觉 / Web全栈技术**
+- 🌱 学习中：**FastAPI、深度学习、分布式系统、Unity开发**
+- 🤝 欢迎合作：**AI、前端、后端、全栈项目**
+- 📫 联系方式：`gehanlin@whu.edu.cn`
 
-## 技能与工具
+---
 
-- 语言：JavaScript, TypeScript, Python, Go, ...
-- 框架/工具：React, Node.js, Django, Docker, ...
+## 🧰 技能 & 工具
 
-## 📊 GitHub 统计
+### 🚀 编程语言
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,c,java,php" />
+</p>
+
+### 🛠️ 框架 & 技术栈
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=react,vue,html,css,nodejs,django,fastapi,flask" />
+</p>
+
+### ☁ DevOps / 云 & 工具
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,postgres,mysql,redis" />
+</p>
+
+---
+
+## 🚀 Featured Projects / 项目展示
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/PaoloMaldini">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=YourRepo1&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/PaoloMaldini">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=YourRepo2&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 想展示更多项目？可以继续加 Repo 组件！
+
+---
+
+## 📊 GitHub 统计面板
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=PaoloMaldini&show_icons=true&theme=radical" alt="GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloMaldini&layout=compact&theme=radical" alt="Top languages" />
+	<img src="https://github-readme-stats.vercel.app/api?username=PaoloMaldini&show_icons=true&theme=radical" height="165" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloMaldini&layout=compact&theme=radical" height="165" />
 </p>
+
+---
 
 ## 🔥 连续贡献 & 活跃度
 
 <p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=PaoloMaldini&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaoloMaldini&theme=radical" />
 </p>
-
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=PaoloMaldini&theme=react-dark" />
-</div>
-
-## ⏳ 编程时长统计 (WakaTime)
 
 ---
 
-## 联系我
+## 🐍 贪吃蛇贡献图动画（超酷）
 
-- ✉️ Email: `gehanlin@whu.edu.cn`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PaoloMaldini/PaoloMaldini/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⏳ WakaTime 编程时长统计（自动更新）
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_id&theme=radical&layout=compact" />
+</p>
+
+---
+
+## 🌎 访客地图（Visitor Map）
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=PaoloMaldini&label=Visitor%20Map&labelColor=%23d9e3f0&countColor=%23000000&style=flat" />
+</p>
+
+---
+
+## 📫 联系方式
+
+- ✉️ Email: **gehanlin@whu.edu.cn**
 - 📺 Bilibili: [PaoloMaldini](https://space.bilibili.com/436417254)
-- 🌐 个人网站: `https://yourwebsite.com`
+- 🌐 Website: `https://yourwebsite.com`
+
+---
+
+## ⭐ 如果你喜欢我的主页风格，欢迎点个 Star！

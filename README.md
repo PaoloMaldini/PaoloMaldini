@@ -102,8 +102,10 @@
 
 ## ⏳ WakaTime 编程时长统计
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloMaldini&theme=default&layout=compact" alt="WakaTime Stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloMaldini&theme=default&layout=compact&v=2" alt="WakaTime Stats">
 </p>
 
 ---

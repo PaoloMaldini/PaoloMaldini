@@ -21,7 +21,7 @@
   <a href="https://github.com/PaoloMaldini "><img src="https://img.shields.io/github/followers/PaoloMaldini?label=Followers&style=social "></a>
 </p>
 
----
+
 
 ## 👨‍💻 About Me / 关于我
 
@@ -31,7 +31,7 @@
 - 🤝 欢迎合作：**AI、前端、后端、全栈项目**  
 - 📫 联系方式：`gehanlin@whu.edu.cn`
 
----
+
 
 ## 🧰 技能 & 工具
 
@@ -50,27 +50,31 @@
   <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,redis" alt="DevOps">
 </p>
 
----
+
 
 ## 🚀 Featured Projects / 精选项目
-
+<!-- 整段直接粘进 README 即可 -->
 <p align="center">
-  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=PPT-PaddlePoemTrainer&theme=default&show_owner=true&cache_seconds=1800" alt="PPT-PaddlePoemTrainer">
-  </a>
+  <!-- GitHub 统计卡片 / 暗色自适应 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=PPT-PaddlePoemTrainer&show_owner=true&theme=github_dark&cache_seconds=1800">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=PPT-PaddlePoemTrainer&show_owner=true&theme=default&cache_seconds=1800" alt="PPT-PaddlePoemTrainer">
+  </picture>
+
   <br>
-  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer">
-    <img src="https://img.shields.io/github/stars/PaoloMaldini/PPT-PaddlePoemTrainer?style=for-the-badge&logoColor=auto&color=auto" alt="Stars">
-  </a>
-  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer">
-    <img src="https://img.shields.io/github/forks/PaoloMaldini/PPT-PaddlePoemTrainer?style=for-the-badge&logoColor=auto&color=auto" alt="Forks">
-  </a>
-  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer">
-    <img src="https://img.shields.io/github/license/PaoloMaldini/PPT-PaddlePoemTrainer?style=for-the-badge&logoColor=auto&color=auto" alt="License">
-  </a>
+
+  <!-- 三枚扁平风徽章 -->
+ <p align="center">
+  <!-- 访问统计 -->
+  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer"><img src="https://visitor-badge.laobi.icu/badge?page_id=PaoloMaldini.PPT-PaddlePoemTrainer" /></a>
+  <!-- Stars -->
+  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer/stargazers"><img src="https://img.shields.io/github/stars/PaoloMaldini/PPT-PaddlePoemTrainer?logo=github&label=Stars&labelColor=30363d&color=ffab44" /></a>
+  <!-- Forks -->
+  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer/network/members"><img src="https://img.shields.io/github/forks/PaoloMaldini/PPT-PaddlePoemTrainer?logo=github&label=Forks&labelColor=30363d&color=8e44ad" /></a>
+  <!-- License -->
+  <a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/PaoloMaldini/PPT-PaddlePoemTrainer?logo=github&label=License&labelColor=30363d&color=00add8" /></a>
 </p>
 
----
 
 ## 📊 GitHub 统计面板
 
@@ -79,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloMaldini&layout=compact&theme=default" height="165" alt="Top Languages">
 </p>
 
----
+
 
 ## 🔥 连续贡献 & 活跃度
 
@@ -87,9 +91,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaoloMaldini&theme=default" alt="Streak Stats">
 </p>
 
----
-
-## 🐍 贪吃蛇贡献图动画
 
 <p align="center">
   <picture>
@@ -98,7 +99,7 @@
   </picture>
 </p>
 
----
+
 
 ## ⏳ WakaTime 编程时长统计
 
@@ -108,7 +109,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloMaldini&theme=default&layout=compact&v=2" alt="WakaTime Stats">
 </p>
 
----
+
 
 ## 🌎 访客地图
 

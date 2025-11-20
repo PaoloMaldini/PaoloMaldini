@@ -112,8 +112,14 @@
 
 ## 🌎 访客地图
 
+
+
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=PaoloMaldini&label=Visitor%20Map&labelColor=%23d9e3f0&countColor=%23000000&style=flat" alt="Visitor Map">
+  <a href="https://clustrmaps.com/site/1c8iv" title="访客地图">
+    <img src="https://clustrmaps.com/map_v2.png?d=_sfgNHfML4tbAHR4UJbxnEsXlaMbiDTzzclTtyM21iU&cl=ffffff"
+         alt="Visitors map"
+         style="width:90%;max-width:700px;">
+  </a>
 </p>
 
 ---

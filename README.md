@@ -105,7 +105,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloMaldini&theme=default&layout=compact&v=2" alt="WakaTime Stats">
 </p>
-
+<!-- WakaTime 本周编码统计 -->
+<div align="center">
+  <img src="https://wakatime.com/share/@PaoloMaldini/bb147f1d-aea6-4329-8958-9ca8987ab34f.svg" alt="WakaTime Stats" />
+</div>
+<img src="https://wakatime.com/share/@PaoloMaldini/0f95062a-266b-498e-89a3-92fd892b0056.svg" alt="WakaTime Stats" />
 
 
 ## 🌎 访客地图

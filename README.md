@@ -150,7 +150,13 @@
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+
+<!-- WakaTime 代码时长统计 -->
+<div align="center">
+  <a href="https://wakatime.com/@a9d614af-d099-4b77-b5e2-8b70e1e142cb">
+    <img src="https://wakatime.com/badge/user/a9d614af-d099-4b77-b5e2-8b70e1e142cb.svg" alt="wakatime" />
+  </a>
+</div>
 
 
 

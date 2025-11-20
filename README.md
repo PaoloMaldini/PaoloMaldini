@@ -30,7 +30,7 @@
 
 ### 🚀 编程语言
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp,c,java,php" />
+	<img src="https://skillicons.dev/icons?i=js,python,cpp,c,java" />
 </p>
 
 ### 🛠️ 框架 & 技术栈
@@ -40,29 +40,22 @@
 
 ### ☁ DevOps / 云 & 工具
 <p align="left">
-	<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,postgres,mysql,redis" />
+	<img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,redis" />
 </p>
 
 ---
 
-## 🚀 Featured Projects / 项目展示
+## 🚀 Featured Projects / 精选项目
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/PaoloMaldini">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=YourRepo1&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/PaoloMaldini">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=YourRepo2&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/PaoloMaldini/PPT-PaddlePoemTrainer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PaoloMaldini&repo=PPT-PaddlePoemTrainer&theme=radical&show_owner=true&cache_seconds=1800" />
+</a>
 
-> 想展示更多项目？可以继续加 Repo 组件！
+![Stars](https://img.shields.io/github/stars/PaoloMaldini/PPT-PaddlePoemTrainer?style=flat-square&color=ff69b4)
+![Forks](https://img.shields.io/github/forks/PaoloMaldini/PPT-PaddlePoemTrainer?style=flat-square&color=ff69b4)
+![License](https://img.shields.io/github/license/PaoloMaldini/PPT-PaddlePoemTrainer?style=flat-square&color=ff69b4)
+
+<br clear="both"/>
 
 ---
 

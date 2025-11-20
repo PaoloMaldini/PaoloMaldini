@@ -89,7 +89,7 @@
 
 ---
 
-## 🐍 贪吃蛇贡献图动画（超酷）
+## 🐍 贪吃蛇贡献图动画
 
 <p align="center">
   <picture>
@@ -100,7 +100,7 @@
 
 ---
 
-## ⏳ WakaTime 编程时长统计（自动更新）
+## ⏳ WakaTime 编程时长统计
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloMaldini&theme=default&layout=compact" alt="WakaTime Stats">
@@ -108,7 +108,7 @@
 
 ---
 
-## 🌎 访客地图（Visitor Map）
+## 🌎 访客地图
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=PaoloMaldini&label=Visitor%20Map&labelColor=%23d9e3f0&countColor=%23000000&style=flat" alt="Visitor Map">

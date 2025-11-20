@@ -86,7 +86,7 @@
 ## 🐍 贪吃蛇贡献图动画（超酷）
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PaoloMaldini/PaoloMaldini/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PaoloMaldini/PaoloMaldini/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---

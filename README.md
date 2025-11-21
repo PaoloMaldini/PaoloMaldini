@@ -101,16 +101,36 @@
 ## ⏳ WakaTime 编程时长统计
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaoloMaldini&theme=default&layout=compact&v=2" alt="WakaTime Stats">
-</p>
-<!-- WakaTime 本周编码统计 -->
+<!-- WakaTime 编程统计 -->
 <div align="center">
-  <img src="https://wakatime.com/share/@PaoloMaldini/bb147f1d-aea6-4329-8958-9ca8987ab34f.svg" alt="WakaTime Stats" />
-</div>
-<img src="https://wakatime.com/share/@PaoloMaldini/0f95062a-266b-498e-89a3-92fd892b0056.svg" alt="WakaTime Stats" />
 
+## 📊 WakaTime 编程时长统计
+
+<!-- 主要统计卡片 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=a9d614af-d099-4b77-b5e2-8b70e1e142cb&theme=default&layout=compact&v=2" alt="WakaTime Stats" width="500">
+</p>
+
+<!-- 两个图表并排显示 -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <div>
+    <h4>📈 本周编码统计</h4>
+    <img src="https://wakatime.com/share/@a9d614af-d099-4b77-b5e2-8b70e1e142cb/bb147f1d-aea6-4329-8958-9ca8987ab34f.svg" alt="Weekly Stats" width="400">
+  </div>
+  <div>
+    <h4>🗓️ 月度概览</h4>
+    <img src="https://wakatime.com/share/@a9d614af-d099-4b77-b5e2-8b70e1e142cb/0f95062a-266b-498e-89a3-92fd892b0056.svg" alt="Monthly Overview" width="800">
+  </div>
+</div>
+
+<!-- WakaTime Badge -->
+<p align="center">
+  <a href="https://wakatime.com/@a9d614af-d099-4b77-b5e2-8b70e1e142cb">
+    <img src="https://wakatime.com/badge/user/a9d614af-d099-4b77-b5e2-8b70e1e142cb.svg" alt="WakaTime">
+  </a>
+</p>
+
+</div>
 
 ## 🌎 访客地图
 

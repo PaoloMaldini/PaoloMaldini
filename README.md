@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Everywhere&fontSize=90&fontAlign=50&fontAlignY=30&desc=Paolo%2MMaldini&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I'm%20Everywhere&fontSize=90&fontAlign=50&fontAlignY=30&desc=Paolo%20Maldini&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 
 
@@ -105,6 +105,18 @@
 
 
 
+
+<p align="center">
+    <!-- GitHub 活动图表 -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=PaoloMaldini&theme=github-compact&hide_border=true&area=true&custom_title=PaoloMaldini's%20Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+</p>
+
+<p align="center">
+    <!-- GitHub 成就奖杯 -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=PaoloMaldini&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+</p>
+
+
 ## ⏳ WakaTime 编程时长统计
 
 
@@ -200,3 +212,8 @@
 
 
 ## ⭐ 如果你喜欢我的主页风格，欢迎点个 Star！
+
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=We%20are%20one&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+</p>
